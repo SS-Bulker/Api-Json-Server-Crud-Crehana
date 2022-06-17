@@ -1,0 +1,24 @@
+{
+  "personas": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "poder": "Agua"
+    },
+    {
+      "id": 2,
+      "nombre": "Pablo",
+      "poder": "Fuego"
+    },
+    {
+      "id": 3,
+      "nombre": "Mateo",
+      "poder": "Tierra"
+    },
+    {
+      "nombre": "Eliseo",
+      "poder": "Comer",
+      "id": 5
+    }
+  ]
+}
